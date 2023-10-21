@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/02/programming_tips.jpg">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Truong Trung Nghia</h1>
 <h3 align="center">An enthusiastic website developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
